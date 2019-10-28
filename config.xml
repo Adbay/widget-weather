@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<widget xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:sl="http://www.signagelive.com/widgets" id="http://adbay.com/PPACKAGE" version="PVERSION" width="1920" height="1080">
+	<name>PNAME</name>
+	<description>PDESCRIPTION</description>
+	<author>Adbay, Inc</author>
+	<content src="index.html"/>
+	<icon src="media/thumb.png" sl:thumbnail="large" />
+	<!-- Preferences (Optional) -->
+	<preference name="Station" value="KCPR" sl:type="string" sl:required="true" />
+</widget>

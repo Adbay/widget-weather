@@ -1,0 +1,12 @@
+@import "settings";
+@import "components/includes";
+
+* {
+  overflow: hidden;
+}
+body {
+  background-color: #ffffff;
+  font-size: 60px;
+  color: #438f9b;
+  font-family: "Open Sans Condensed", sans-serif;
+}
