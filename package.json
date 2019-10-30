@@ -40,7 +40,8 @@
     "scripts": "gulp scripts",
     "images": "gulp images",
     "fonts": "gulp fonts",
-    "watch": "gulp watchDir"
+    "watch": "gulp watchDir",
+    "start": "gulp watchDir"
   },
   "author": "Bradley Erickson, Adbay, Inc.",
   "license": "UNLICENSED",
