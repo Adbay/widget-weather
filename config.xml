@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <widget xmlns="http://www.w3.org/ns/widgets" 
-	xmlns:sl="http://www.signagelive.com/widgets" id="http://adbay.com/PPACKAGE" version="PVERSION" width="1920" height="1080">
+	xmlns:sl="http://www.signagelive.com/widgets" id="http://adbay.com/PPACKAGE" version="PVERSION" width="380" height="676">
 	<name>PNAME</name>
 	<description>PDESCRIPTION</description>
 	<author>Adbay, Inc</author>
