@@ -28,7 +28,7 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8",
     "gulp-zip": "^5.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jshint": "^2.10.2",
     "jshint-stylish": "^2.2.1",
     "motion-ui": "^2.0.3",
